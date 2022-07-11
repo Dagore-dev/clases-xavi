@@ -1,0 +1,15 @@
+D:\Repositorios\XAVI\Intro\bin\Debug\net6.0\Intro.exe
+D:\Repositorios\XAVI\Intro\bin\Debug\net6.0\Intro.deps.json
+D:\Repositorios\XAVI\Intro\bin\Debug\net6.0\Intro.runtimeconfig.json
+D:\Repositorios\XAVI\Intro\bin\Debug\net6.0\Intro.dll
+D:\Repositorios\XAVI\Intro\bin\Debug\net6.0\Intro.pdb
+D:\Repositorios\XAVI\Intro\obj\Debug\net6.0\Intro.csproj.AssemblyReference.cache
+D:\Repositorios\XAVI\Intro\obj\Debug\net6.0\Intro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\XAVI\Intro\obj\Debug\net6.0\Intro.AssemblyInfoInputs.cache
+D:\Repositorios\XAVI\Intro\obj\Debug\net6.0\Intro.AssemblyInfo.cs
+D:\Repositorios\XAVI\Intro\obj\Debug\net6.0\Intro.csproj.CoreCompileInputs.cache
+D:\Repositorios\XAVI\Intro\obj\Debug\net6.0\Intro.dll
+D:\Repositorios\XAVI\Intro\obj\Debug\net6.0\refint\Intro.dll
+D:\Repositorios\XAVI\Intro\obj\Debug\net6.0\Intro.pdb
+D:\Repositorios\XAVI\Intro\obj\Debug\net6.0\Intro.genruntimeconfig.cache
+D:\Repositorios\XAVI\Intro\obj\Debug\net6.0\ref\Intro.dll
